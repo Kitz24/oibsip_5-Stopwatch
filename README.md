@@ -1,4 +1,4 @@
-Android Stopwatch App
+###Android Stopwatch App###
 This project is an Android application that functions as a simple stopwatch. It measures the time elapsed between its activation and deactivation, just like a normal handheld stopwatch.
 
 Features
